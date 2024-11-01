@@ -1,0 +1,4 @@
+service : {
+  getTranslation: () -> (text) query;
+  storeTranslation: (text) -> () query;
+}
